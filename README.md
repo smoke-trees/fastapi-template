@@ -1,5 +1,7 @@
 # template
 
+This project is an extension to the repo https://github.com/tiangolo/full-stack-fastapi-postgresql , made by the creator of FastAPI (https://fastapi.tiangolo.com/). This project encorporates parts of the project formed its cookiecutter project, which are important, and pertaining to creating a highly integrable backend service in Python. It excludes the unimportant services from the main project.
+
 ## Backend Requirements
 
 * [Docker](https://www.docker.com/).
